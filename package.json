@@ -1,6 +1,6 @@
 {
   "name": "@porrametict/my-node-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "my first node package",
   "main": "index.js",
   "scripts": {
