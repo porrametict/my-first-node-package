@@ -4,4 +4,4 @@
 
 const myNodePackage = require('@porrametict/my-node-package');
 
-console.log(myNodePackage('eee'));
+console.log(myNodePackage.greet2('eee'));
