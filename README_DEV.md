@@ -8,4 +8,4 @@
 3. npm publish --access=public
    (update)
 4. npm version <patch|minor|major>
-5. npm publish --access public
+5. npm publish --access=public
