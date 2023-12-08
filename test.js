@@ -1,3 +1,7 @@
-const greet = require('./index');
+// const greet = require('./index');
 
-console.log(greet("John"))
+// console.log(greet("John"))
+
+const myNodePackage = require('@porrametict/my-node-package');
+
+console.log(myNodePackage('eee'));
